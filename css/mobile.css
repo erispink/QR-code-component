@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&family=Heebo:wght@300&display=swap');
+
+@media screen and (max-width: 768px)  {
+    body {
+            background-color: rgb(208, 215, 243);
+            font-family: 'Heebo', sans-serif;
+        }
+
+    main {
+        display: block;
+        margin: auto;
+    }
+}
